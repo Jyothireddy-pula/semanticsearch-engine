@@ -7,6 +7,7 @@ A production-oriented semantic retrieval system over 20 Newsgroups with:
 - custom semantic cache from first principles (no Redis/Memcached)
 - FastAPI service with live cache state management
 
+
 ---
 
 ## 1) Architecture
